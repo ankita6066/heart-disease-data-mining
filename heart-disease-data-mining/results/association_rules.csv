@@ -1,0 +1,75 @@
+antecedents,consequents,support,confidence,lift
+"60Plus, Hypertensive","CHD, High",0.025,0.34,3.019
+"60Plus, Hypertensive","CHD, High, Non_Diabetic",0.023,0.308,2.941
+"60Plus, Hypertensive, Non_Diabetic","CHD, High",0.023,0.33,2.933
+"Hypertensive, Male, Smoker","CHD, High, Non_Diabetic",0.021,0.27,2.575
+"Hypertensive, Male, Smoker","CHD, High",0.022,0.279,2.478
+"Hypertensive, Male, Non_Diabetic, Smoker","CHD, High",0.021,0.276,2.449
+"60Plus, High, Hypertensive",CHD,0.025,0.36,2.372
+"60Plus, High, Hypertensive, Non_Diabetic",CHD,0.023,0.351,2.314
+"60Plus, Hypertensive",CHD,0.026,0.349,2.299
+"60Plus, High, Hypertensive","CHD, Non_Diabetic",0.023,0.327,2.293
+"High, Hypertensive, Male, Smoker","CHD, Non_Diabetic",0.021,0.325,2.28
+"60Plus, Hypertensive, Non_Diabetic",CHD,0.024,0.34,2.239
+"60Plus, Hypertensive","CHD, Non_Diabetic",0.024,0.317,2.229
+"50s, Hypertensive","CHD, High",0.031,0.25,2.226
+"Hypertensive, Male","CHD, High",0.034,0.25,2.226
+"High, Hypertensive, Male, Smoker",CHD,0.022,0.336,2.211
+"High, Hypertensive, Male, Non_Diabetic, Smoker",CHD,0.021,0.332,2.186
+"60Plus, High, NonSmoker",CHD,0.024,0.313,2.064
+"60Plus, High",CHD,0.033,0.31,2.043
+"Hypertensive, Male, Smoker","CHD, Non_Diabetic",0.023,0.291,2.042
+"60Plus, High, NonSmoker, Non_Diabetic",CHD,0.021,0.306,2.017
+"60Plus, High","CHD, Non_Diabetic",0.03,0.286,2.006
+"60Plus, High, NonSmoker","CHD, Non_Diabetic",0.021,0.285,2.003
+"60Plus, High, Non_Diabetic",CHD,0.03,0.303,1.997
+"High, Hypertensive, Male",CHD,0.034,0.3,1.978
+"Hypertensive, Male, Smoker",CHD,0.023,0.3,1.975
+"50s, Male, Smoker","CHD, Non_Diabetic",0.02,0.281,1.969
+"50s, High, Male","CHD, Non_Diabetic",0.022,0.279,1.961
+"Hypertensive, Male, Non_Diabetic, Smoker",CHD,0.023,0.297,1.957
+"High, Hypertensive, Male","CHD, Non_Diabetic",0.031,0.277,1.947
+"50s, High, Male",CHD,0.023,0.294,1.938
+"50s, High, Male, Non_Diabetic",CHD,0.022,0.292,1.919
+"50s, Male, Smoker",CHD,0.021,0.29,1.912
+"High, Hypertensive, Male, Non_Diabetic",CHD,0.031,0.289,1.906
+"50s, Male, Non_Diabetic, Smoker",CHD,0.02,0.286,1.884
+60Plus,CHD,0.039,0.285,1.876
+"Borderline, High, Hypertensive",CHD,0.023,0.284,1.87
+"50s, High, Smoker","CHD, Non_Diabetic",0.023,0.265,1.862
+"Borderline, High, Hypertensive","CHD, Non_Diabetic",0.021,0.263,1.848
+60Plus,"CHD, Non_Diabetic",0.036,0.263,1.843
+"Hypertensive, Male, Overweight",CHD,0.021,0.279,1.837
+"60Plus, Non_Diabetic",CHD,0.036,0.278,1.833
+"60Plus, NonSmoker",CHD,0.026,0.276,1.816
+"Borderline, High, Hypertensive, Non_Diabetic",CHD,0.021,0.276,1.814
+"High, Male, Smoker","CHD, Non_Diabetic",0.036,0.258,1.811
+"Hypertensive, Male",CHD,0.037,0.275,1.81
+"High, Hypertensive, Smoker","CHD, Non_Diabetic",0.029,0.257,1.806
+"High, Hypertensive, Smoker",CHD,0.031,0.274,1.804
+"High, Male, Overweight, Smoker",CHD,0.02,0.274,1.803
+"50s, High, Smoker",CHD,0.023,0.273,1.801
+"50s, High, Hypertensive",CHD,0.031,0.273,1.799
+"50s, High, Non_Diabetic, Smoker",CHD,0.023,0.273,1.796
+"Hypertensive, Male","CHD, Non_Diabetic",0.034,0.256,1.795
+"High, Hypertensive, Overweight",CHD,0.036,0.272,1.788
+"50s, High, Hypertensive","CHD, Non_Diabetic",0.029,0.253,1.773
+"60Plus, NonSmoker, Non_Diabetic",CHD,0.024,0.269,1.772
+"60Plus, NonSmoker","CHD, Non_Diabetic",0.024,0.251,1.764
+"50s, Hypertensive",CHD,0.033,0.268,1.762
+"High, Male, Smoker",CHD,0.037,0.266,1.754
+"50s, High, Hypertensive, Non_Diabetic",CHD,0.029,0.266,1.75
+"Hypertensive, Male, Non_Diabetic",CHD,0.034,0.265,1.748
+"High, Hypertensive, Non_Diabetic, Smoker",CHD,0.029,0.265,1.745
+"High, Male, Non_Diabetic, Smoker",CHD,0.036,0.263,1.734
+"60Plus, Female, Non_Diabetic",CHD,0.02,0.261,1.721
+"50s, Hypertensive, Non_Diabetic",CHD,0.031,0.261,1.718
+"60Plus, Female",CHD,0.021,0.26,1.713
+"High, Hypertensive, Non_Diabetic, Overweight",CHD,0.033,0.259,1.707
+"High, Hypertensive",CHD,0.072,0.259,1.706
+"Borderline, High",CHD,0.025,0.258,1.698
+"50s, Male",CHD,0.033,0.258,1.697
+"Hypertensive, Overweight",CHD,0.038,0.256,1.685
+"Hypertensive, Smoker",CHD,0.033,0.255,1.679
+"High, Hypertensive, NonSmoker, Overweight",CHD,0.02,0.252,1.661
+"Borderline, High, Non_Diabetic",CHD,0.023,0.252,1.659

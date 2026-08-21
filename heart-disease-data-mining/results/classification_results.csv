@@ -1,0 +1,13 @@
+Model,Used_SMOTE,CV_ROC_AUC_mean,CV_ROC_AUC_std,Test_Accuracy,Test_Precision,Test_Recall,Test_F1,Test_ROC_AUC
+Voting Ensemble (Logistic Regression+AdaBoost+XGBoost),False,,,0.8479,0.5,0.0543,0.0979,0.7086
+Logistic Regression,False,0.7315,0.0303,0.8443,0.4118,0.0543,0.0959,0.7025
+AdaBoost,False,0.7227,0.0361,0.8526,0.625,0.0775,0.1379,0.7021
+XGBoost,False,0.7373,0.027,0.8502,0.5556,0.0775,0.1361,0.7017
+Gradient Boosting,False,0.7307,0.03,0.8455,0.4583,0.0853,0.1438,0.7012
+Extra Trees,False,0.7205,0.0307,0.8467,0.0,0.0,0.0,0.6915
+Random Forest,False,0.729,0.0319,0.8455,0.25,0.0078,0.015,0.6765
+Naive Bayes,False,0.7194,0.0267,0.8054,0.25,0.1395,0.1791,0.6755
+Support Vector Machine,True,0.6757,0.0315,0.6733,0.2299,0.4884,0.3127,0.654
+K-Nearest Neighbors,False,0.6622,0.0287,0.8479,0.5,0.0388,0.0719,0.6496
+Decision Tree,False,0.6726,0.0339,0.8278,0.1304,0.0233,0.0395,0.6459
+Neural Network (MLP),False,0.6431,0.0121,0.7983,0.2558,0.1705,0.2047,0.5979

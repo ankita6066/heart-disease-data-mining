@@ -1,0 +1,9 @@
+{
+  "n_flagged": 212,
+  "pct_flagged": 5.0,
+  "anomaly_chd_prevalence_%": 37.7,
+  "normal_chd_prevalence_%": 14.0,
+  "chi2_statistic": 86.24,
+  "p_value": 1.5968794402225878e-20,
+  "kept": true
+}

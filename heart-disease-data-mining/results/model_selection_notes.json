@@ -1,0 +1,29 @@
+{
+  "kept_models": [
+    "Logistic Regression",
+    "AdaBoost",
+    "XGBoost",
+    "Gradient Boosting",
+    "Voting Ensemble (Logistic Regression+AdaBoost+XGBoost)"
+  ],
+  "dropped_models": [
+    "Extra Trees",
+    "Random Forest",
+    "Naive Bayes",
+    "Support Vector Machine",
+    "K-Nearest Neighbors",
+    "Decision Tree",
+    "Neural Network (MLP)"
+  ],
+  "baseline_auc_threshold": 0.7,
+  "voting_ensemble_kept": true,
+  "voting_ensemble_result": {
+    "Model": "Voting Ensemble (Logistic Regression+AdaBoost+XGBoost)",
+    "Used_SMOTE": false,
+    "Test_Accuracy": 0.8479,
+    "Test_Precision": 0.5,
+    "Test_Recall": 0.0543,
+    "Test_F1": 0.0979,
+    "Test_ROC_AUC": 0.7086
+  }
+}

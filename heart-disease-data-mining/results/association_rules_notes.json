@@ -1,0 +1,6 @@
+{
+  "total_frequent_itemsets": 4882,
+  "total_chd_related_rules": 29683,
+  "fruitful_rules_kept": 74,
+  "kept": true
+}

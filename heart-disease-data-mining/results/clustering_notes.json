@@ -1,0 +1,10 @@
+{
+  "best_k": 3,
+  "kmeans_silhouette": 0.2168,
+  "hierarchical_silhouette": 0.2199,
+  "kmeans_prevalence_spread_pp": 26.2,
+  "hierarchical_prevalence_spread_pp": 24.8,
+  "winner": "K-Means",
+  "overall_chd_prevalence_%": 15.2,
+  "kept": true
+}

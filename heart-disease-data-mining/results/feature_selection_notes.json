@@ -1,0 +1,49 @@
+{
+  "mi_ranking": {
+    "age": 0.031,
+    "sysBP": 0.0219,
+    "diaBP": 0.018,
+    "glucose": 0.017,
+    "prevalentHyp": 0.0152,
+    "heartRate": 0.0141,
+    "BPMeds": 0.0136,
+    "BMI": 0.0125,
+    "education": 0.0042,
+    "male": 0.0034,
+    "totChol": 0.0033,
+    "cigsPerDay": 0.0022,
+    "prevalentStroke": 0.0011,
+    "diabetes": 0.0003,
+    "currentSmoker": 0.0
+  },
+  "rfe_selected": [
+    "BMI",
+    "age",
+    "cigsPerDay",
+    "diaBP",
+    "glucose",
+    "heartRate",
+    "sysBP",
+    "totChol"
+  ],
+  "consensus_features": [
+    "BMI",
+    "age",
+    "diaBP",
+    "glucose",
+    "heartRate",
+    "sysBP"
+  ],
+  "recommended_feature_set": [
+    "BMI",
+    "BPMeds",
+    "age",
+    "cigsPerDay",
+    "diaBP",
+    "glucose",
+    "heartRate",
+    "prevalentHyp",
+    "sysBP",
+    "totChol"
+  ]
+}
